@@ -1,4 +1,31 @@
-h1{text-align: center;
-	color:white;
-	background-color: red;
+.one{
+	background-color: pink;
+	color: black;
 }
+.adjust-font-size{
+	font-size: 24px;
+}
+
+#two {
+color: blue;
+	font-size: 36px;
+}
+
+#four{
+	background-color: green;
+	font-weight: bold;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
